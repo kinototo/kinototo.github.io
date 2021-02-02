@@ -188,9 +188,9 @@
         },
         "manual": {
             "output": "catalog",
-            "outputDirectory": "C:\\Users\\HuJK\\Documents\\Publii\\static"
+            "outputDirectory": "C:\\Users\\HuJK\\Documents\\Publii\\docs"
         }
     },
     "theme": "simple",
-    "syncDate": 1612276161378
+    "syncDate": 1612276161377
 }
