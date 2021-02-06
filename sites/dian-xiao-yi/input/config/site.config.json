@@ -1,14 +1,14 @@
 {
     "uuid": "uuid-1611404752084-149155685",
-    "name": "yis-blog",
-    "displayName": "乙's blog",
+    "name": "dian-xiao-yi",
+    "displayName": "店小乙",
     "synced": "synced",
     "logo": {
         "color": 1,
         "icon": "web-glass"
     },
     "domain": "/",
-    "language": "en",
+    "language": "zh-tw",
     "spellchecking": true,
     "advanced": {
         "cssCompression": 1,
@@ -32,7 +32,7 @@
         "twitterCardsType": "summary",
         "twitterUsername": "",
         "metaTitle": "%sitename",
-        "metaDescription": "",
+        "metaDescription": "記錄些日常，或是靈感之類",
         "noIndexThisPage": false,
         "homepageNoIndexPagination": false,
         "metaRobotsIndex": "index, follow",
@@ -192,5 +192,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1612276161377
+    "syncDate": 1612590193962
 }

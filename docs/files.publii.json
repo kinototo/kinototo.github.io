@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "05e468d2c92d323b3415e957737cd4de"
+        "md5": "46ac59be82080b8be05de6fadf87c6ec"
     },
     {
         "path": "assets",
@@ -107,17 +107,22 @@
     {
         "path": "/authors/yi/index.html",
         "type": "file",
-        "md5": "6e9da4c3df2a76b4406ecf342f252681"
+        "md5": "efdd9e80c0f77ab25b166aa4a52f7ba8"
+    },
+    {
+        "path": "CNAME",
+        "type": "file",
+        "md5": "3197bedc28fb305bb74fe9d7258e2505"
     },
     {
         "path": "first-articale.html",
         "type": "file",
-        "md5": "c1ae0e1d3a2578cb6787047f7c5b49a9"
+        "md5": "66e771d63aa560906dbacbca931c5d07"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "53d9c32f57044e5465de10323a311c55"
+        "md5": "0841798373111206bfed4702b143e6bd"
     },
     {
         "path": "media",
@@ -202,7 +207,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "b3b62dbb92aa13c1742ce770212e0100"
+        "md5": "86692d5e5eaafb6176076ad94c8ab974"
     },
     {
         "path": "tags",
@@ -212,6 +217,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "fcd050323483e3aec20dabf8f3713a1c"
+        "md5": "d60f2bb8312223e94708ef6a13d06fab"
     }
 ]
